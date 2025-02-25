@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: RSCalc
+## Notes: Skill XP and Goal Calculator
+## Author: Livvydoodlez
+## Version: 1.0
+## SavedVariables: GoalXP_DB
+
+GoalXP.lua
+RSCalc.lua
+RSCalc.xml
